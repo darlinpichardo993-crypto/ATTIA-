@@ -1,0 +1,18 @@
+ATTIA VST  -  Synth Effect  -  Made By ORYMY
+
+QUE INCLUYE
+  - Sintetizador de 2 osciladores "Resynth" con banco de 11.000 ondas
+  - 20.000 presets unicos en 20 secciones (reggaeton, plucks, violines,
+    strings, guitarras, pads ambientales, keys, bajos, FX...)
+  - 15.000 arpegios con escalas mayores y menores, loops de melodia
+  - Compresor y limitador integrados para controlar picos y volumen
+  - Drive, modulacion (chorus/phaser/flanger), delay ping-pong y reverb
+
+DONDE SE INSTALA
+  - Plugin VST3:   C:\Program Files\Common Files\VST3\ATTIA.vst3
+  - Banco de ondas: C:\ProgramData\ORYMY\ATTIA\attia_bank.bin (~90 MB)
+
+EN FL STUDIO
+  Options > Manage plugins > Find installed plugins  (busca ATTIA)
+
+Cierra FL Studio antes de instalar.
